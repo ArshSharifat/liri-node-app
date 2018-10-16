@@ -46,3 +46,5 @@ How to Run LIRI-Bot
 4: node liri.js do-what-it-says
 
 This will output the text in random.txt file
+
+****Link to watch LIRI in action: https://drive.google.com/file/d/1MdaFtvne98F2HPZW_8nuMZMnzcl_2XmY/view
